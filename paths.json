@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/catalan-test-commbank-4/:/",
+    "/content/catalan-test-commbank-4/configuration:/.helix/config.json"
   ]
 }
